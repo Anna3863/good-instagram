@@ -1,7 +1,7 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { background: #0C0F14; color: #fff; font-family: -apple-system, sans-serif; }
+body { background: #23AEFF; color: #fff; font-family: -apple-system, sans-serif; }
 
-.app-container { max-width: 500px; margin: auto; background: #0C0F14; min-height: 100vh; }
+.app-container { max-width: 500px; margin: auto; background: #23AEFF; min-height: 100vh; }
 
 /* Image Bar Slots */
 .custom-top-bar img, 
